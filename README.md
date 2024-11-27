@@ -4,6 +4,10 @@
 
 This project explores and analyses posts from the popular technology site Hacker News. The analysis focuses on understanding the different types of posts, particularly "Ask HN" and "Show HN", and determining which type of post receives more comments on average. The insights can help in understanding user engagement on the platform.
 
+## Data Source and License
+
+The dataset used in this project is licensed under [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) and can be found [here](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts). 
+
 ## How to View
 
 You can view the Jupyter Notebook in two ways:
